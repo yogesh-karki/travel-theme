@@ -1,0 +1,137 @@
+@media screen and (min-width: 1900px) {
+
+	.container {
+		max-width: 1640px;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .container {
+        max-width: 1300px;
+    }
+
+}
+
+@media screen and (max-width: 1400px) { 
+
+    header .nav-container nav ul li a {
+        font-size: 14px;
+    }
+
+    header .nav-container nav ul li a .nav-item .subtitle {
+        font-size: 12px;
+    }
+
+    .btn-style span {
+        width:35px;
+        height: 35px;
+    }
+
+    .btn-style span img {
+        width: 15px;
+    }
+
+    .banner .search-bar input {
+        height: 45px;
+    }
+
+    .banner .search-bar button {
+        width: 38px;
+        height: 38px;
+        top: 4px;
+    }
+
+    .banner .search-bar button img {
+        width: 18px;
+    }
+
+    .container {
+        max-width: 1200px;
+    }
+
+    .heading-text {
+        font-size: 38px;
+        line-height: 46px;
+    }
+
+    .intro-container .intro-video .play-btn {
+
+        top: 28.5%;
+        left: 74.56%;
+
+    }
+
+    header .nav-container .logo img {
+        width: 250px;
+    }
+
+    .banner .search-bar {
+        bottom: 5%;
+    }
+
+    .intro-container .intro-text {
+        margin-left: 80px;
+    }
+
+    .banner .banner-text h2 {
+        font-size: 48px;
+        font-weight: 500;
+    }
+
+    .intro-container .intro-text p {
+        margin-right: 50px;
+    }
+
+    .intro-container {
+        min-height: 600px;
+    }
+
+    header .nav-container nav ul li {
+        margin-left: 45px;
+    }
+ 
+    .banner .btext {
+        width: 40%;
+        top: 35%;
+    }
+
+
+    .banner .btext h2 {
+        font-size: 38px;
+    }
+
+    .activities .swiper-slide {
+        height: 500px;
+    }
+
+    .activities .swiper-slide img {
+        height: 550px
+    }
+
+    .destinations .destinations-head {
+        right: 9.1%;
+    }
+
+    .activities .swiper-slide:nth-child(2n), .activities .swiper-slide:nth-child(3n) {
+        width: 280px;
+    }
+
+    .stories .story-article {
+        width: 100%;
+    }
+
+    .activities .actitivity-card .title-card figure img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .activities .actitivity-card .title-card figure {
+        width: 46px;
+        height: 46px;
+    }
+
+    .activities .actitivity-card .title-card h4 {
+        font-size: 18px;
+    }
+
+}

@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'GeomainstLight';
+    src: url('Geomanist-Light.eot');
+    src: local('Geomanist-Light'),
+        url('Geomanist-Light.eot?#iefix') format('embedded-opentype'),
+        url('Geomanist-Light.woff2') format('woff2'),
+        url('Geomanist-Light.woff') format('woff'),
+        url('Geomanist-Light.ttf') format('truetype');
+
+}
+
+@font-face {
+    font-family: 'GeomainstRegular';
+    src: url('geomanist-regular.eot');
+    src: local('geomanist-regular'),
+        url('geomanist-regular.eot?#iefix') format('embedded-opentype'),
+        url('geomanist-regular.woff2') format('woff2'),
+        url('geomanist-regular.woff') format('woff'),
+        url('geomanist-regular.ttf') format('truetype');
+
+    font-style: normal;
+}
+

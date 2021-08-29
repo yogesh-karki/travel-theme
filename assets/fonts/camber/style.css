@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'CamberLight';
+    src: url('Camber W01 Light.eot');
+    src: local('Camber W01 Light'),
+        url('Camber W01 Light.eot?#iefix') format('embedded-opentype'),
+        url('Camber W01 Light.woff2') format('woff2'),
+        url('Camber W01 Light.woff') format('woff'),
+        url('Camber W01 Light.ttf') format('truetype');
+
+}
+
+@font-face {
+    font-family: 'CamberThin';
+    src: url('Camber W04 Thin.eot');
+    src: local('Camber W04 Thin'),
+        url('Camber W04 Thin.eot?#iefix') format('embedded-opentype'),
+        url('Camber W04 Thin.woff2') format('woff2'),
+        url('Camber W04 Thin.woff') format('woff'),
+        url('Camber W04 Thin.ttf') format('truetype');
+
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CamberBold';
+    src: url('Camber W04 Bold.eot');
+    src: local('Camber W04 Bold'),
+        url('Camber W04 Bold.eot?#iefix') format('embedded-opentype'),
+        url('Camber W04 Bold.woff2') format('woff2'),
+        url('Camber W04 Bold.woff') format('woff'),
+        url('Camber W04 Bold.ttf') format('truetype');
+  
+    font-style: italic;
+}
